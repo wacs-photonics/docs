@@ -1,4 +1,4 @@
-# WaCS Photonincs documentation
+# WaCS Photonics documentation
 
 This repository hosts the documentation for our group.
 
