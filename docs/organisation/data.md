@@ -4,7 +4,6 @@
 
 ## Raw data and processed results
 - Use the appropriate NAS for raw data and processed results.
-- Use our shared OneDrive for regular file sharing (reports, presentations, figures, labbook, etc.).
 - Always separate raw data and processed results.
 - Use the following tree structures:
 ```
@@ -25,12 +24,13 @@ proc/
 │   │       └── notebook.ipynb
 │   │       └── README.md
 ```
--  To avoid data spreading, a `project` folder should be broad enough (e.g. `functiglass`).
+-  To avoid data spreading, a `project` folder should be broad enough (e.g. a topic like `two-pp` or `dlw`).
 - The exact file name can be a bit flexible but i) always use the correct date format and ii) always keep track of the data description in your labbook (paper and digital format).
 - Add a README file if needed.
 
-**Reports and presentation**
+## Reports and presentation
+- Use our shared OneDrive for regular file sharing (reports, presentations, figures, labbook, etc.).
 - Use date formatted file names: `YYYY-MM-DD-my-presentation.ppt`
 
-**Labbook**
+## Labbook
 - Use our shared `labnotes` OneDrive folder as digital labbook.
