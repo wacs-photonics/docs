@@ -1,6 +1,6 @@
 # Essential tools
 
-We use several sharing tools for **data** and **internal communication**. Make sure you visited the [get started](../get-started.md) page and got all the necessary accesses.
+We use several sharing tools for **data** and **internal communication**. Make sure you visited the [Get started](../get-started.md) page and got all the necessary access.
 
 - Discord server for communication.
 - NAS for raw data and processed results.
