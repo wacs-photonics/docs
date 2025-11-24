@@ -29,8 +29,33 @@ proc/
 - Add a README file if needed.
 
 ## Reports and presentation
-- Use our shared OneDrive for regular file sharing (reports, presentations, figures, labbook, etc.).
-- Use date formatted file names: `YYYY-MM-DD-my-presentation.ppt`
+- Use our shared sDrive for regular file sharing (reports, presentations, figures, lab notes, etc.).
+- Please use the following **naming conventions**. Use these rules for **all** files and folders.
+
+1. **Use ISO dates (YYYY-MM-DD)**
+
+Examples:  
+`2025-03-12_scan-1.dat`  
+`2025-11-08_experiment-notes.md`
+
+2. **No spaces — use hyphens or underscores**
+
+Good: `temp_sweep_2025-02-01.csv`  
+Bad: `temp sweep.csv`
+
+3. **Most specific information first**
+
+`YYYY-MM-DD_topic_details.ext`  
+Example: `2025-03-12_raman_sample-A.csv`
+
+4. **Versioning**
+
+Use Git for code and textual content. For other files, use:  
+`v1`, `v2`, `v3`, etc. or date-based versions.
+
+Example:
+`manuscript_v3.docx`  
+`2025-04-10_analysis-v2.ipynb`
 
 ## Labbook
-- Use our shared `labnotes` OneDrive folder as digital labbook.
+- Use our shared `labnotes` sDrive folder as digital labbook.
