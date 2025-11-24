@@ -2,10 +2,11 @@
 
 We use several sharing tools for **data** and **internal communication**. Make sure you visited the [Get started](../get-started.md) page and got all the necessary access.
 
-- Discord server for communication.
-- NAS for raw data and processed results.
-- OneDrive for regular file sharing (reports, presentations, figures, labbook, etc.).
-- Overleaf for manuscripts (ask a permanent member to create projects with premium access).
-- Zotero for shared bibliography. Pin a message in #paper-sharing if you find an important paper!
-- GitHub organization for codes. Post in #coding if you need any assistance!
-- Framagenda for a shared calendar.
+- *Discord* server for communication.
+- *NAS* for raw data and processed results.
+- *sDrive* for regular file sharing (reports, presentations, figures, labbook, etc.).
+- *Overleaf* for manuscripts (ask a permanent member to create projects with premium access if needed).
+- *Zotero* for shared bibliography.
+- *GitHub* organization for codes.
+- *Framagenda* for a shared calendar.
+- *Zoom* for regular meetings.
