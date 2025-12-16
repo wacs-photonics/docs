@@ -28,7 +28,7 @@ You need to first check the providers with whom we have an account. This include
 
 Make sure the following information are provided in the quote:
 
-* **Billing adress**: CNRS 1285, CNRS -SCTD, 2 Rue Jean Zay, TSA° 61004, 54519 VANDOEUVRE LES NANCY, France
+* **Billing adress**: CNRS 1285, CNRS-SCTD, 2 Rue Jean Zay, TSA 61004, 54519 VANDOEUVRE LES NANCY, France
 * **Shipping adress**: INPHYNI, UMR7010 CNRS, Institut de Physique de Nice, 17 rue Julien Lauprêtre, 06200 NICE, France
 * **VAT number**: FR40180089013
 
