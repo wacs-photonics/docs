@@ -13,7 +13,7 @@ Details about each step are listed below.
 
 ## 1. Inform your wish
 
-For small equipments (e.g. optomechanics, electronics, lab material, etc.), whenever it's possible please make a group order (to limit the number of deliveries). For that, you have to:
+For small equipment (e.g. optomechanics, electronics and laboratory materials, etc.), please place a group order whenever possible to limit the number of deliveries. To keep things organized, you have to:
 
 * Open a thread on Discord and indicate a deadline.
 * Create an xls file with the list of materials in the `purchases/wish-list` folder on sDrive.
