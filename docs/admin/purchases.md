@@ -61,7 +61,7 @@ You have to specify the **credit source** and the **NACRE nomenclature** (see `p
 ## 5. Sign the delivery sheet and send it to the admin
 Once your order is delivered (you should receive an notification from *Rachid*), pick it up at the welcome desk, sign the form, check the items and send the signed delivery sheet to *Iliade*.
 
-If it's a online service (e.g. a software licence) without shipping label, fill the form `purchases/Attestation service fait Inphyni.docx` and give it to admin.
+If it's an online service (e.g. a software licence) without shipping label, fill the form `purchases/Attestation service fait Inphyni.docx` and give it to the admin.
 
 ## 6. Move the files from `in-progress` to `completed`
-To finalize the procedure, move the whole dated folder from `in-progress` to `completed` folder and notify your colleagues on the Discord thread.
+To finalize the procedure, move the whole dated folder from `in-progress` to `completed` and notify your colleagues on the Discord thread.
