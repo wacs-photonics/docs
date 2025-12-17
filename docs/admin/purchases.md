@@ -38,9 +38,9 @@ Make sure the following information are provided in the quote:
 
 !!! warning
     Note that if your item concerns:<br>
-    - a consumable (<3 k€), a quote from a single supplier is enough.<br>
-    - an equipement (>3 k€), you need to ask for quotes from at least 3 different providers and justify (few sentences) your choice.<br>
-    - a large equipement (>10 k€), a specific public market procedure is required (discuss it with your supervisor!)
+    - a consumable (<10 k€), a quote from a single supplier is enough.<br>
+    - an equipement (>10 k€), you need to ask for quotes from at least 3 different providers and justify (few sentences) your choice.<br>
+    - a large equipement (>40 k€), a specific public market procedure is required (discuss it with your supervisor!)
 
 !!! note "Credit card payment"
     In specific cases, you are allowed to use the lab's credit card to pay directly online or at a shop (after validation from your supervisor off course :smile:). You have to ask the card to *Iliade*. If you use this card then be sure to **get a bill** from the supplier and send it to *Iliade*. The bill should mention your name, the billing address (or at least **INPHYNI, CNRS UMR 7010**). Note that a card ticket is not enough!
