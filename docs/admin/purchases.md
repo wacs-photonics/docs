@@ -2,7 +2,7 @@
 
 To pass an order there are few steps:
 
-1. Inform your wish on Discord
+1. Inform your wish
 2. Get a quote
 3. Put it in `in-progress` and ask for validation
 4. Send the quote to the admin
