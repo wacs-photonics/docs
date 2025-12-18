@@ -1,6 +1,6 @@
 # Essential tools
 
-We use several sharing tools for **internal communication** **data management**, **coding** and **writing** and . Make sure you visited the [Get started](../get-started.md) page and got all the necessary access.
+We use several sharing tools for **internal communication**, **data management**, **coding** and **writing** and . Make sure you visited the [Get started](../get-started.md) page and got all the necessary access.
 
 ## Discord server for communication
 We use the *WaCS Photonics* Discord server for communication inside the team. Visit the `#start-here` channel to know more about this server and to get set up.
