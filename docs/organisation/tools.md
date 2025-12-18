@@ -13,7 +13,7 @@ We use the *WaCS Photonics* Discord server for communication inside the team. Vi
     To edit your Framagenda calendars from your desktop calendar application, simply add your Framagenda account to the desktop client. Once added, all of your Framagenda calendars will sync automatically. For additional details on using iCal (Apple Calendar), see the [linked information](https://docs.framasoft.org/fr/agenda/Synchronisation/ical.html).
 
 ## Zoom for regular meetings
-We use Zoom for regular meetings (use your UniCA account). The links to the different rooms are pinned in the `#announcements` Discrod channel.
+We use Zoom for regular meetings (use your UniCA account). The links to the different rooms are pinned in the `#announcements` Discord channel.
 
 ## NAS for raw data and processed results
 * We use two different local network-attached storage (NAS) servers called **FEMTO** and **MESO** to share raw data and precessed results.
