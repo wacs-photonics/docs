@@ -3,7 +3,7 @@
 # Project info
 site_name = "WaCS Photonics"
 site_description = "The WaCS Photonics group documentation."
-site_url = "https://www.example.com/"
+site_url = "https://wacs-photonics.github.io/docs/"
 
 # Navigation
 nav = [
