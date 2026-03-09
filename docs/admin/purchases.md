@@ -33,7 +33,7 @@ Make sure the following information are provided in the quote:
 * **VAT number**: FR40180089013
 
 !!! info "Discount"
-    We sometimes have special discount with some companies, make sure it has been applied (if not ask your supervisor). You might need to specify a customer ID. For **Thorlabs**, use the **customer ID 404177** to get a 4% discount (except for specific items like microscope objectives). 
+    We sometimes have special discount with some companies, make sure it has been applied (if not ask your supervisor).
 
 !!! warning
     - For a consumable (<10 k€), a quote from a single supplier is enough.
